@@ -1,6 +1,8 @@
 # ShanshuiTape
 Generative Customizable Chinese Landscape Paintings Style Tapes Based on Audio Clips
 
+More detrails can be found in the [introduction document](https://github.com/ShinghoiXu/ShanshuiTape/blob/main/ProjectIntroDoc.pdf) of this project.
+
 ## Get Started
 ### Environment/Library Dependency
 To start this program, you need certain software and libraries down below:
