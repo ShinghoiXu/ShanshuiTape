@@ -16,6 +16,9 @@ We need to name it as "music.mp3".
 + Turn on/off the built-in tree generator
 + Change the size of the canvas
 + Change the music
-+ Change the color
++ Change the gradient colors
 ## Special Thanks
 Special thanks to all kinds of open source codes online, including the environment and libraries mentioned above. Besides, I also want to thank Daniel Shiffman's great book [*The Nature of Code*](https://natureofcode.com/). His code helps me draw fractal trees.
+## Output examples
+![茉莉花](https://user-images.githubusercontent.com/41323710/170436156-9056df17-28ac-41b7-9007-66c50a9540c4.jpg)
+![不再Cherry](https://user-images.githubusercontent.com/41323710/170436172-497ecd37-9b9e-4f0d-89c5-e523c495e833.jpg)
